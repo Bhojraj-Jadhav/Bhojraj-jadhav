@@ -1,4 +1,4 @@
-[![MasterHead](https://ik.imgkit.net/3vlqs5axxjf/PCWW/uploadedImages/Articles/News/2023/January/chatgpt%20for%20travel(1).jpg?tr=w-1200%2Cfo-auto)](https://rishavchanda.io)
+[![MasterHead](https://www.edureka.co/blog/wp-content/uploads/2019/03/Data-Scientist-Resume-Data-Scientist-Skills-Edureka.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bhojraj Jadhav</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-63e9e7b/wp-content/uploads/2019/10/data-science-giphy.gif">
