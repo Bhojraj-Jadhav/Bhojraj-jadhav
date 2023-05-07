@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/001/879/461/original/artificial-intelligence-for-problem-solving-artificial-brain-network-system-intelligence-technology-for-question-n-answer-ideas-completing-task-promotion-business-card-banner-brochure-flyer-free-vector.jpg)]
+[![MasterHead](https://ik.imgkit.net/3vlqs5axxjf/PCWW/uploadedImages/Articles/News/2023/January/chatgpt%20for%20travel(1).jpg?tr=w-1200%2Cfo-auto)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bhojraj Jadhav</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-63e9e7b/wp-content/uploads/2019/10/data-science-giphy.gif">
