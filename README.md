@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhojraj Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Bhojraj Jadhav, Welcome to my github page.</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-63e9e7b/wp-content/uploads/2019/10/data-science-giphy.gif">
 
