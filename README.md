@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [Git Hub Itself](Git Hub Itself)
+- 👨‍💻 All of my projects are available at (Git Hub Itself)
 
 - 💬 Ask me about **Web Scraping, Data Analysis, Machine Learning**
 
